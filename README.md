@@ -35,7 +35,6 @@ output S,C;
 assign c=A&B;
 assign S=A^B;
 endmodule
-
 module FullAdder(a,b,carryin,sum,carryout);
 input a,b,carryin;
 output sum,carryout;
