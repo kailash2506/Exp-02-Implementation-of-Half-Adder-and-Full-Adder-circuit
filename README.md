@@ -1,5 +1,5 @@
-![image](https://github.com/kailash2506/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149034874/d432cd7c-1cc1-423d-a034-d1bf5e81e4f4)![image](https://github.com/kailash2506/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149034874/02ff401a-0148-46d0-af0b-a36f382a1b5c)![image](https://github.com/kailash2506/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149034874/2a306975-1543-48e3-a460-cb52d4067c55)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
-
+## Developed by : Kailash Kumar S
+## Register Number : 212223220041
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
@@ -55,7 +55,7 @@ endmodule
 ![image](https://github.com/kailash2506/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149034874/4c0018cd-eb4a-490a-9f30-c9b96fed6dc1)
 ## RTL realization:
 ## Half Adder:
-![image](https://github.com/kailash2506/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149034874/bf0c0687-d29d-4cf9-b43b-7157c432432e)
+![image](https://github.com/kailash2506/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149034874/35bbce60-d4c4-4d11-aba6-c1cc1132f9b6)
 ## Full Adder:
 ![image](https://github.com/kailash2506/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149034874/c561642f-a2a8-4a69-b3c8-a6405b66cc78)
 ### TIMING DIAGRAM:
